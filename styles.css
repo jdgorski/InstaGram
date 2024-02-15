@@ -1,0 +1,71 @@
+/* General Resets */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Apply a basic font */
+  body {
+    font-family: 'Arial', sans-serif;
+    background-color: black;
+  }
+.instagramcontainer{
+
+}
+.instagram-header{
+}
+.images{
+  justify-content: space-between;
+}
+
+
+
+.HI{
+border-radius: 50%;
+margin-right: 50px;
+justify-content: space-between;
+border: 3px solid orange;
+}
+.lower_header{
+justify-content: flex-end;
+display: flex;
+justify-content: flex-start;
+}
+.center-stage{
+
+}
+
+.hello{
+border-radius: 50%;
+width: 40px;
+
+}
+
+.yo{
+  width: 850px;
+  height: 500px;
+border: 5px solid white;
+}
+.footer-icons{
+  background-color: antiquewhite;
+size: 100px;
+display: flex;
+justify-content:space-around;
+}
+
+h1{
+  font-family: "Dancing Script", cursive;
+  color: white;
+}
+h3{
+    color: white;
+   display: flex;
+   align-items: flex-end;
+}
+.me{
+
+ width: 1000px;
+ margin-right: 1000px;
+}
+.bop{border: 3px solid white;}
